@@ -1337,8 +1337,8 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 520,1312,05,95,th,Thailand,66,Total Access (DTAC)
 520,1312,04,79,th,Thailand,66,True Move/Orange
 520,1312,99,2463,th,Thailand,66,True Move/Orange
-514,1300,01,31,tp,Timor-Leste,670,Telin/ Telkomcel
-514,1300,02,47,tp,Timor-Leste,670,Timor Telecom
+514,1300,01,31,tl,Timor-Leste,670,Telin/ Telkomcel
+514,1300,02,47,tl,Timor-Leste,670,Timor Telecom
 615,1557,02,47,tg,Togo,228,Telecel/MOOV
 615,1557,03,63,tg,Togo,228,Telecel/MOOV
 615,1557,01,31,tg,Togo,228,Togo Telecom/TogoCELL
